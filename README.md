@@ -199,6 +199,6 @@ jwt_secrets  → Id_secret, Valeur_secret, Date_generation, Actif_secret, Id_adm
 
 ## Auteur
 
-**[Votre Nom Complet]**  
+**[EFRANCEL Zamily]**  
 Module : POO sur Plateforme à Composants — 2025/2026  
 Dépôt : [github.com/Zamily-8/api-gateway-portal](https://github.com/Zamily-8/api-gateway-portal)
