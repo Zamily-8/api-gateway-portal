@@ -1,4 +1,4 @@
-# Portail d'Administration — API Gateway
+# Portail d'API (API Gateway) configurable
 
 > Interface web complète pour configurer, surveiller et administrer une passerelle d'API.  
 > Projet réalisé dans le cadre du module **POO sur Plateforme à Composants** — 2025/2026.
